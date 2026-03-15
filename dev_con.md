@@ -1,4 +1,4 @@
-# Overview For Developers
+# Overview for Developers
 Focuses on the nitty and gritty of the code, IDE, and data used to present the beautiful user interface of My Favorite Albums. 
 It is recommended that you are proficient in the coding language R and the IDE RStudio before attempting to develop additional 
 features for this software.

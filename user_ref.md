@@ -26,7 +26,7 @@ Commonly asked questions and a glossary for musical definitions.
 
 ___
 
-## Release Formats For Music
+## Release Formats for Music
 A glossary for music related definitions.
 
 #### Album (Long Play/LP):
@@ -49,7 +49,7 @@ A recording of a song or group of songs that were played live at a venue or conc
 
 ---
 
-## Mediums For Storing Music
+## Mediums for Storing Music
 My Favorite Albums currently supports only information for vinyl status. However, you might find it useful to learn more about different methods that have been used to store music.
 
 #### Vinyl:

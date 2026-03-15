@@ -1,10 +1,10 @@
-# Walkthroughs For Developers
+# Walkthroughs for Developers
 This section focuses on the structural foundation that runs My Favorite Albums, allowing developers to create their own features and
 deploy their own version of My Favorite Albums.
 
 ---
 
-## Packages To Install
+## Packages to Install
 
 Listed below are the packages that need to be installed on RStudio and what they do:
 ```R Console

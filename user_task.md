@@ -65,7 +65,7 @@ Below the submit button an album list appears.
 
 > Note: The submit button needs to be hit only once; subsequent changes in artist automatically updates the list below.
 
-#### Favorite Albums
+#### Favorite Artists
 1) Click on the dropdown menu and select the minimum number of albums the artist must have (1-10).
 
 ![favorite_drop.png](/images/favorite_drop.png)

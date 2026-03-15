@@ -1,4 +1,4 @@
-# Getting Started With My Favorite Albums
+# Getting Started with My Favorite Albums
 A brief introduction to the webpage where users can become familiar with the feature list and the data used by My Favorite Albums.
 
 ---

@@ -1,4 +1,4 @@
-# Reference For Developers
+# Reference for Developers
 Reference for the R files and their functions, .csv file formatting, and Shinyapps.io documentation.
 
 ___
@@ -123,7 +123,7 @@ Functions Present:
 
 ---
 
-## Format For .csv Files
+## Format for .csv Files
 
 The format is: Year, Ranking, Album, Artist, Rating, Vinyl, EP, Live. Respectively each column takes the following data inputs:
 
